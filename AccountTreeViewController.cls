@@ -145,8 +145,6 @@ public class AccountTreeViewController {
 
         system.debug( 'mapAccountsLevel1 ' + mapAccountsLevel1 );
         
-        //system.debug( 'mapAccounts 0013600000RSv7xAAD ==>> ' + mapAccounts['0013600000RSv7xAAD'] ['0013600000RSv7yAAD'].Name);
-        
 
 
     }
