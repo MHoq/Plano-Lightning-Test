@@ -140,12 +140,8 @@ public class AccountTreeViewController {
             }      */      
        	}  
         
-            
-        //system.debug( 'mapAccounts ' + mapAccounts );
 
         system.debug( 'mapAccountsLevel1 ' + mapAccountsLevel1 );
-        
-
 
     }
 }
