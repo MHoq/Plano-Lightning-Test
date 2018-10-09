@@ -136,7 +136,6 @@ public class AccountTreeViewController {
                 system.debug( 'New ' + Id );
                 mapAccounts.put(Id, new Map<String, List<Account>>{accRecord.Id => new List<Account>{accRecord}});
                 mapAccountsLevel1.put( Id, accRecord );
-                //ListAccount.Add( Id );
             }      */      
        	}  
         
